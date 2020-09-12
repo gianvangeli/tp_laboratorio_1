@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599019853 source:c:\users\micaela\desktop\facultad\programacion\trabajo practico nuevo\tp_laboratorio_1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1599949794 c:\users\micaela\desktop\facultad\programacion\trabajo practico nuevo\tp_laboratorio_1\trabajopractico1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1599020024 source:c:\users\micaela\desktop\facultad\programacion\trabajo practico nuevo\tp_laboratorio_1\trabajopractico1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
