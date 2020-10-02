@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601655102 source:c:\users\micaela\desktop\facultad\programacion\trabajo practico nuevo\tp_laboratorio_1\trabajopractico2\trabajopractico2\main.c
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1601658580 c:\users\micaela\desktop\facultad\programacion\trabajo practico nuevo\tp_laboratorio_1\trabajopractico2\trabajopractico2\arrayemployees.h
+	"Input.h"
+
+1601658578 c:\users\micaela\desktop\facultad\programacion\trabajo practico nuevo\tp_laboratorio_1\trabajopractico2\trabajopractico2\input.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
